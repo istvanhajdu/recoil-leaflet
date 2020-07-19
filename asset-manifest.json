@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/istvanhajdu/recoil-leaflet-example/static/css/main.930fc5b6.chunk.css",
-    "main.js": "/istvanhajdu/recoil-leaflet-example/static/js/main.e25b3b62.chunk.js",
-    "main.js.map": "/istvanhajdu/recoil-leaflet-example/static/js/main.e25b3b62.chunk.js.map",
-    "runtime-main.js": "/istvanhajdu/recoil-leaflet-example/static/js/runtime-main.d005947a.js",
-    "runtime-main.js.map": "/istvanhajdu/recoil-leaflet-example/static/js/runtime-main.d005947a.js.map",
-    "static/css/2.7c35e809.chunk.css": "/istvanhajdu/recoil-leaflet-example/static/css/2.7c35e809.chunk.css",
-    "static/js/2.7a637247.chunk.js": "/istvanhajdu/recoil-leaflet-example/static/js/2.7a637247.chunk.js",
-    "static/js/2.7a637247.chunk.js.map": "/istvanhajdu/recoil-leaflet-example/static/js/2.7a637247.chunk.js.map",
-    "index.html": "/istvanhajdu/recoil-leaflet-example/index.html",
-    "precache-manifest.a3e4f9833f015300b7fecf6f4e95d155.js": "/istvanhajdu/recoil-leaflet-example/precache-manifest.a3e4f9833f015300b7fecf6f4e95d155.js",
-    "service-worker.js": "/istvanhajdu/recoil-leaflet-example/service-worker.js",
-    "static/css/2.7c35e809.chunk.css.map": "/istvanhajdu/recoil-leaflet-example/static/css/2.7c35e809.chunk.css.map",
-    "static/css/main.930fc5b6.chunk.css.map": "/istvanhajdu/recoil-leaflet-example/static/css/main.930fc5b6.chunk.css.map",
-    "static/js/2.7a637247.chunk.js.LICENSE.txt": "/istvanhajdu/recoil-leaflet-example/static/js/2.7a637247.chunk.js.LICENSE.txt"
+    "main.css": "/recoil-leaflet-example/static/css/main.930fc5b6.chunk.css",
+    "main.js": "/recoil-leaflet-example/static/js/main.ea5c6106.chunk.js",
+    "main.js.map": "/recoil-leaflet-example/static/js/main.ea5c6106.chunk.js.map",
+    "runtime-main.js": "/recoil-leaflet-example/static/js/runtime-main.8b3bb0c3.js",
+    "runtime-main.js.map": "/recoil-leaflet-example/static/js/runtime-main.8b3bb0c3.js.map",
+    "static/css/2.7c35e809.chunk.css": "/recoil-leaflet-example/static/css/2.7c35e809.chunk.css",
+    "static/js/2.0b7fdc98.chunk.js": "/recoil-leaflet-example/static/js/2.0b7fdc98.chunk.js",
+    "static/js/2.0b7fdc98.chunk.js.map": "/recoil-leaflet-example/static/js/2.0b7fdc98.chunk.js.map",
+    "index.html": "/recoil-leaflet-example/index.html",
+    "precache-manifest.7e585a370aa77bb7dcc3eff3b7824fca.js": "/recoil-leaflet-example/precache-manifest.7e585a370aa77bb7dcc3eff3b7824fca.js",
+    "service-worker.js": "/recoil-leaflet-example/service-worker.js",
+    "static/css/2.7c35e809.chunk.css.map": "/recoil-leaflet-example/static/css/2.7c35e809.chunk.css.map",
+    "static/css/main.930fc5b6.chunk.css.map": "/recoil-leaflet-example/static/css/main.930fc5b6.chunk.css.map",
+    "static/js/2.0b7fdc98.chunk.js.LICENSE.txt": "/recoil-leaflet-example/static/js/2.0b7fdc98.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d005947a.js",
+    "static/js/runtime-main.8b3bb0c3.js",
     "static/css/2.7c35e809.chunk.css",
-    "static/js/2.7a637247.chunk.js",
+    "static/js/2.0b7fdc98.chunk.js",
     "static/css/main.930fc5b6.chunk.css",
-    "static/js/main.e25b3b62.chunk.js"
+    "static/js/main.ea5c6106.chunk.js"
   ]
 }
